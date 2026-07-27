@@ -81,4 +81,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0136-single-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
