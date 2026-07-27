@@ -97,4 +97,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Chirag-tak/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
